@@ -1,0 +1,22 @@
+{
+  "name": "introduccion-node",
+  "version": "1.0.0",
+  "description": "primer ejercicio de PWII",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "ejemplo-colors": "node ejemplo-colors.js",
+    "ejecutar": "node index.js"
+  },
+  "keywords": [
+    "PWII",
+    "Web",
+    "Clase"
+  ],
+  "author": "Francisco Nunez",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
